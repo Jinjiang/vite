@@ -1,6 +1,6 @@
 {
-  "name": "vite",
-  "version": "5.1.0",
+  "name": "@jinjiang-dev/vite",
+  "version": "0.0.1",
   "type": "module",
   "license": "MIT",
   "author": "Evan You",

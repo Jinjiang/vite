@@ -1,5 +1,7 @@
 # vite ⚡
 
+> Debugging version of Vite, based on v5.1.0 (2024-02-19)
+
 > Next Generation Frontend Tooling
 
 - 💡 Instant Server Start

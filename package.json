@@ -84,7 +84,7 @@
     "tsx": "^4.7.0",
     "typescript": "^5.2.2",
     "unbuild": "^2.0.0",
-    "vite": "workspace:*",
+    "@jinjiang-dev/vite": "workspace:*",
     "vitepress": "1.0.0-rc.42",
     "vitest": "^1.2.2",
     "vue": "^3.4.15"
